@@ -1,5 +1,5 @@
 # Cadastro de Usuários Front-End
-Este projeto é a interface de front-end para a aplicação de gerenciamento de usuários. Ele permite cadastrar novos usuários e listar usuários existentes através de uma interface web. Este projeto se conecta a uma API RESTful construída com Node.js, Express, Cors e Prisma, utilizando MongoDB como banco de dados.
+Este projeto é a interface de front-end para uma aplicação de gerenciamento de usuários. Com ele, é possível cadastrar novos usuários e listar usuários existentes através de uma interface web amigável. O projeto se conecta a uma API RESTful, desenvolvida utilizando Node.js, Express, Cors e Prisma, e utiliza o MongoDB como banco de dados.
 
 ## 🔗 Link para o Deploy: 
 * Veja a versão ao vivo do projeto aqui:<a href="https://react-cad-de-usuarios.netlify.app/"> Cadastro de Usuários </a>
